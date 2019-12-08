@@ -1,5 +1,5 @@
 {
-  "name": "sharoff/mango-office-api",
+  "name": "maulerant/mango-office-api",
   "type": "library",
   "autoload": {
     "psr-4": {
